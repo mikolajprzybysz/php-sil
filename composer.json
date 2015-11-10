@@ -1,0 +1,15 @@
+{
+    "name": "mikolajprzybysz/php-sil",
+    "description": "Standard Interface Library provides a set of interfaces for software developers to ensure compatibility of across various projects. Making them easily exchangeable and reducing to zero the overhead of making library compatible with projects using this standard.",
+    "license": "MIT",
+    "homepage": "https://github.com/mikolajprzybysz/php-sil",
+    "authors": [
+        {
+            "name": "Mikołaj Przybysz",
+            "email": "mikolaj.przybysz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "InterfaceLib": "src" }
+    }
+}
