@@ -7,11 +7,11 @@
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
-namespace InterfaceLib\Lock;
+namespace InterfaceLib\Command;
 
 /**
- * Log implementing this interface is expected
- * to provide simple string logging method.
+ * Command implementing this interface is expected
+ * to provide output based on input arguments.
  * It is expected that the implementation can differ
  * in method arguments and return types.
  *
