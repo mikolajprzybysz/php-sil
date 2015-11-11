@@ -17,7 +17,7 @@ namespace InterfaceLib\Log;
  *
  * @since Interface available since Release 1.0.0
  */
-interface SimpleLogAsyncInterface
+interface LogAsyncInterface
 {
     /**
      * Log message passed to this method is suppose

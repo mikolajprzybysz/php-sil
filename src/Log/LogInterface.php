@@ -17,7 +17,7 @@ namespace InterfaceLib\Log;
  *
  * @since Interface available since Release 1.0.0
  */
-interface SimpleLogInterface
+interface LogInterface
 {
     /**
      * Store message or pass it to system that will

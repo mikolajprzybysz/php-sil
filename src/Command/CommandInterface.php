@@ -17,7 +17,7 @@ namespace InterfaceLib\Command;
  *
  * @since Interface available since Release 1.0.0
  */
-interface SimpleCommandInterface
+interface CommandInterface
 {
     /**
      * Proper command process input params

@@ -15,7 +15,7 @@ namespace InterfaceLib\Cache;
  *
  * @since Interface available since Release 1.0.0
  */
-interface SimpleCacheInterface
+interface CacheInterface
 {
     /**
      * Get value from cache
