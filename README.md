@@ -23,7 +23,7 @@ now you are able to use any cache implementation based on *SimpleCacheInterface*
 | version | deadline | description |
 | :------- | :--------: | ----------- |
 | 1.1.0   | February 2016 | Acquire at least two implementations for `CacheInterface`, `CommandInterface`, `SemaphoreInterface`, `LogInterface`, `LogAsyncInterface` and list them in readme. |
-| 1.2.0   | June 2016 | Development of four additional interfaces for existing groups and creation of two addional groups. |
+| 1.2.0   | June 2016 | Development of four additional interfaces for existing groups and creation of two additional groups. |
 
 # Collaboration
 If you are interested in adding some interfaces, fork the repo, add your interfaces and make a pull request.
