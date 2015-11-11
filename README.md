@@ -10,12 +10,11 @@ Standard Interface Library provides a set of interfaces for software developers 
 }
 ```
 
-# Use cases:
-## Creating easily pluggable project.
+# Use it to create easily pluggable project.
 
 Create two different project, each of projects will be cache implementation using redis or memcache.
 
-## Using interfaces in project classes to ensure pluggability of different implementations.
+# Using interfaces in project classes to ensure pluggability of different implementations.
 
 Create class that will be able to cache data once it recieves it from external service and use *SimpleCacheInterface*,
 now you are able to use any cache implementation based on *SimpleCacheInterface*
